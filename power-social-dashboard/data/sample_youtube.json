@@ -1,0 +1,32 @@
+[
+  {
+    "platform": "youtube",
+    "id": "yt_vid_001",
+    "author": "Tech Channel",
+    "title": "รีวิว Gadget ใหม่ 2025",
+    "text": "มาดูกันว่า Gadget ตัวนี้น่าสนใจแค่ไหน!",
+    "published_at": "2025-07-01T10:00:00Z",
+    "like_count": 1200,
+    "comment_count": 150,
+    "share_count": 0,
+    "view_count": 54000,
+    "url": "https://www.youtube.com/watch?v=yt_vid_001",
+    "thumbnail_url": "https://i.ytimg.com/vi/yt_vid_001/mqdefault.jpg",
+    "hashtags": ["#gadget", "#review"]
+  },
+  {
+    "platform": "youtube",
+    "id": "yt_vid_002",
+    "author": "Tech Channel",
+    "title": "สรุปงานเปิดตัวมือถือใหม่",
+    "text": "สเปก ราคา และความคุ้มค่า",
+    "published_at": "2025-07-03T15:30:00Z",
+    "like_count": 800,
+    "comment_count": 95,
+    "share_count": 0,
+    "view_count": 32000,
+    "url": "https://www.youtube.com/watch?v=yt_vid_002",
+    "thumbnail_url": "https://i.ytimg.com/vi/yt_vid_002/mqdefault.jpg",
+    "hashtags": ["#mobile", "#launch"]
+  }
+]
