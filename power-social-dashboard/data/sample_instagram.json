@@ -1,0 +1,32 @@
+[
+  {
+    "platform": "instagram",
+    "id": "ig_media_001",
+    "author": "influencer.th",
+    "title": null,
+    "text": "คาเฟ่นี้น่ารักมากก ☕️",
+    "published_at": "2025-07-01T05:50:00Z",
+    "like_count": 4800,
+    "comment_count": 180,
+    "share_count": 0,
+    "view_count": 0,
+    "url": "https://instagram.com/p/ig_media_001",
+    "thumbnail_url": "https://instagram.fcdn/ig_media_001.jpg",
+    "hashtags": ["#cafe", "#bangkok"]
+  },
+  {
+    "platform": "instagram",
+    "id": "ig_media_002",
+    "author": "influencer.th",
+    "title": null,
+    "text": "เที่ยวยุโรปหน้าร้อน บรรยากาศดีมาก 🌞",
+    "published_at": "2025-07-05T18:10:00Z",
+    "like_count": 7200,
+    "comment_count": 320,
+    "share_count": 0,
+    "view_count": 0,
+    "url": "https://instagram.com/p/ig_media_002",
+    "thumbnail_url": "https://instagram.fcdn/ig_media_002.jpg",
+    "hashtags": ["#europe", "#summer"]
+  }
+]

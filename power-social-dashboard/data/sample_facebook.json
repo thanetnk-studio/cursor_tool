@@ -1,0 +1,32 @@
+[
+  {
+    "platform": "facebook",
+    "id": "fb_post_001",
+    "author": "Brand Page",
+    "title": null,
+    "text": "โปรโมชันพิเศษช่วงสุดสัปดาห์ ลดสูงสุด 50%!",
+    "published_at": "2025-07-02T08:20:00Z",
+    "like_count": 2300,
+    "comment_count": 210,
+    "share_count": 120,
+    "view_count": 0,
+    "url": "https://facebook.com/posts/fb_post_001",
+    "thumbnail_url": null,
+    "hashtags": ["#sale", "#promotion"]
+  },
+  {
+    "platform": "facebook",
+    "id": "fb_post_002",
+    "author": "Brand Page",
+    "title": null,
+    "text": "ใครลองสินค้าตัวใหม่นี้แล้วบ้าง คอมเมนต์มาบอกกัน!",
+    "published_at": "2025-07-04T12:05:00Z",
+    "like_count": 900,
+    "comment_count": 340,
+    "share_count": 45,
+    "view_count": 0,
+    "url": "https://facebook.com/posts/fb_post_002",
+    "thumbnail_url": null,
+    "hashtags": ["#newproduct"]
+  }
+]
